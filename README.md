@@ -36,4 +36,4 @@ This project reproduces an argument binding error in ASP.NET Core SignalR when i
 ## Additional Notes
 - This repro is minimized for clarity — only code relevant to the issue is included.
 - `.gitignore` is added to exclude unnecessary build outputs like `bin/` and `obj/`.
-- Tested on **ASP.NET Core SignalR version X.X.X** (update with your actual version if necessary).
+- Tested on **ASP.NET Core SignalR version 8.0.18.
